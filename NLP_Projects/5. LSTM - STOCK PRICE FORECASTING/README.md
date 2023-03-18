@@ -19,7 +19,6 @@
   >* Scikit-learn
   
   ## Results and Accuracy:
-  >* Achieved RMSE values of 213.8 and 145.6 for training and testing data, respectively, using a Stacked LSTM model.
   >* Successfully predicted stock prices on test data.
   >* Forecasted stock prices for the next 30 days.
   >* The performance of the model was evaluated using Root mean squared error.
