@@ -2,7 +2,7 @@
 _____________________
 
 ## OBJECTIVE:
-  > The aim is to implement a character-level sequence-to-sequence model, processing the input 'character-by-character' and generating the output 'character-by-character' (English ----> FRENCH).
+  > The aim is to implement a character-level sequence-to-sequence model, processing the input 'character-by-character' and generating the output 'character-by-character' (English to FRENCH).
   
 ## PROJECT WALKTHROUGH :
   >* Data preprocessing: The English and French sentence pairs are preprocessed by tokenizing the sentences and converting them into sequences of integers. The sequences are then padded to have equal length.
